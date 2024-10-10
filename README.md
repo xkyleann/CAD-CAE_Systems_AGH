@@ -1,4 +1,4 @@
-# CAD/CAR Systems - Table of Content - AGH
+# CAD/CAE Systems - Table of Content - AGH
 
 | Lab # | Table of Contents                                                  |
 | --- | ----------------------------------------------------------------------- |
